@@ -1,0 +1,24 @@
+body { 
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-image: url(/assets/images/third-eye.jpg);
+    overflow: hidden;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+div {
+    font-family: 'Spirax', cursive;
+    color: white;
+}
+
+p {
+    font-size: 20pt;
+}
